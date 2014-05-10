@@ -4,9 +4,9 @@ namespace PHPMTV\Core\Web;
 
 use PHPMTV\Core\PHPMTV;
 
-class Views extends PHPMTV 
+class Request extends PHPMTV 
 {
 
-	
-	
+
+
 }
